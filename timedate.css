@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    height: 200px;
+    width: 500px;
+    margin-top: 100px;
+    padding-left: 450px;
+}
+
+.cal{
+    margin-bottom: 30px;
+    height: 70px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.time {
+    height: 70px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.date{
+    height: fit-content;
+    width: fit-content;
+    font-size: 50px;
+    font-weight: 700;
+    color: #4f6b73a1;
+}
+
+.month{
+    height: fit-content;
+    width: fit-content;
+    font-size: 50px;
+    font-weight: 700;
+    color: #4f6b73a1;
+}
+
+.year{
+    height: fit-content;
+    width: fit-content;
+    font-size: 50px;
+    font-weight: 700;
+    color: #4f6b73a1;
+}
+
+.hours{
+    height: fit-content;
+    width: fit-content;
+    font-size: 50px;
+    font-weight: 700;
+    color: #4f6b73a1;
+}
+
+.minute{
+    height: fit-content;
+    width: fit-content;
+    font-size: 50px;
+    font-weight: 700;
+    color: #4f6b73a1;
+}
+
+.second{
+    height: fit-content;
+    width: fit-content;
+    font-size: 50px;
+    font-weight: 700;
+    color: #4f6b73a1;
+}
+
+.symbol{
+    height: fit-content;
+    width: fit-content;
+    font-size: 50px;
+    font-weight: 700;
+    color: #4f6b73a1;
+}
